@@ -31,8 +31,6 @@ This project works fully offline — no dlib, no internet, no complex libraries.
 
 # 📸 Screenshots
 
-> Create `assets/screenshots/` folder and add your images.
-
 ### 📷 1. Face Registration  
 `assets/screenshots/register.png`
 
