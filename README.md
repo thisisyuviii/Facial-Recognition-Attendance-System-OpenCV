@@ -11,7 +11,7 @@ This project works fully offline — no dlib, no internet, no complex libraries.
 
 ### ✔ Face Registration  
 - Capture face dataset using a webcam  
-- Assign a numeric ID + name  
+- Assign numeric ID + name  
 - Saves dataset automatically  
 
 ### ✔ Model Training  
@@ -24,24 +24,24 @@ This project works fully offline — no dlib, no internet, no complex libraries.
 - Works for multiple people at once  
 
 ### ✔ Attendance Logging  
-- Saves name, time, and date  
+- Saves name, time, date  
 - Prevents duplicate entries  
 
 ---
 
 # 📸 Screenshots
 
-### 📷 1. Face Registration  
-`assets/screenshots/register.png`
+### 📷 Registration Screen  
+![Registration](assets/screenshots/register.png)
 
-### 📷 2. Model Training  
-`assets/screenshots/training.png`
+### 📷 Training Output  
+![Training](assets/screenshots/training.png)
 
-### 📷 3. Real-Time Recognition  
-`assets/screenshots/recognition.png`
+### 📷 Real-Time Recognition  
+![Recognition](assets/screenshots/recognition.png)
 
-### 📷 4. Attendance CSV Output  
-`assets/screenshots/attendance.png`
+### 📷 Attendance Log  
+![Attendance](assets/screenshots/attendance.png)
 
 ---
 
@@ -67,6 +67,30 @@ FaceAttendance/
 
 ---
 
+## ▶️ How to Run
+
+### 1️⃣ Install Dependencies
+
+```bash
+pip install opencv-contrib-python numpy pandas
+```
+
+### 2️⃣ Run Program
+
+```bash
+python main.py
+```
+
+Menu options:
+
+```
+1 → Register
+2 → Train
+3 → Start Attendance
+```
+
+---
+
 ## 🧑‍🏫 Tips for Best Accuracy
 
 - Capture 20–30 images per person  
@@ -74,7 +98,3 @@ FaceAttendance/
 - Keep face centered  
 - Avoid multiple faces during registration  
 
----
-
-## ❤️ Credits  
-Created by **Yuvraj Singh**
