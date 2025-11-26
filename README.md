@@ -6,6 +6,13 @@ A Python-based **Face Recognition Attendance System** using **OpenCV LBPH** that
 This project works fully offline — no dlib, no internet, no complex libraries.
 
 ---
+## 👨‍💻 Creator  
+**Yuvraj Singh<br>
+B.Tech AIML<br>
+PSIT Kanpur**
+
+
+---
 
 ## 📌 Features
 
@@ -97,5 +104,6 @@ Menu options:
 - Capture 20–30 images per person  
 - Use good lighting  
 - Keep face centered  
-- Avoid multiple faces during registration  
+- Avoid multiple faces during registration
+  
 
