@@ -32,7 +32,7 @@ This project works fully offline — no dlib, no internet, no complex libraries.
 # 📸 Screenshots
 
 ### 📷 1. Face Registration  
-[SS](assets/screenshots/register.png)
+`assets/screenshots/register.png`
 
 ### 📷 2. Model Training  
 `assets/screenshots/training.png`
