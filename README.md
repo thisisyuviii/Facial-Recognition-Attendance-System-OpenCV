@@ -38,7 +38,8 @@ This project works fully offline — no dlib, no internet, no complex libraries.
 ![Training](assets/screenshots/training.png)
 
 ### 📷 Real-Time Recognition  
-![Recognition](assets/screenshots/recognition.png)
+![Recognition](assets/screenshots/recognition1.png)
+![Recognition](assets/screenshots/recognition2.png)
 
 ### 📷 Attendance Log  
 ![Attendance](assets/screenshots/attendance.png)
