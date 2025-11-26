@@ -7,11 +7,6 @@ This project works fully offline — no dlib, no internet, no complex libraries.
 
 ---
 
-## 👨‍💻 Creator  
-**Yuvraj Singh**
-
----
-
 ## 📌 Features
 
 ### ✔ Face Registration  
