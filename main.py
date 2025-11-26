@@ -1,3 +1,7 @@
+#CREATED-BY     YUVRAJ SINGH
+#B.Tech AIML  3RD-YEAR
+#PSIT-KANPUR
+
 import cv2
 import os
 import numpy as np
@@ -268,3 +272,4 @@ def main_menu():
 
 if __name__ == "__main__":
     main_menu()
+
