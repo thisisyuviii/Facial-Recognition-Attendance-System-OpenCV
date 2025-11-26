@@ -34,17 +34,6 @@ This project works fully offline — no dlib, no internet, no complex libraries.
 
 ---
 
-# 🖼️ Project Banner
-
-> Add your own banner here  
-> Create a folder named `assets/` inside your GitHub repo  
-> Put your banner image as:
-```
-assets/banner.png
-```
-
----
-
 # 📸 Screenshots
 
 > Create `assets/screenshots/` folder and add your images.
